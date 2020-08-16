@@ -22,7 +22,7 @@ from __future__ import print_function
 
 import tensorflow as tf
 from tensorflow_addons.text.crf import crf_decode, crf_log_likelihood
-from tensorflow_addons.utils import keras_utils
+# from tensorflow_addons.utils import keras_utils
 
 
 # @keras_utils.register_keras_custom_object
